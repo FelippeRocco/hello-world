@@ -1,2 +1,3 @@
 # hello-world
-Repo exercicio aula setup 19-04-22
+Esse repo se trata do exercicio da aula setup 19-04-22,
+serviu pra configurar o git e pra aprender como editar e navegar nas paradas...
